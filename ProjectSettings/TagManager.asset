@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - YourTag
   layers:
   - Default
   - TransparentFX
@@ -36,7 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - "\u041F\u0440\u0438\u0446\u0435\u043B"
   m_SortingLayers:
   - name: Default
     uniqueID: 0

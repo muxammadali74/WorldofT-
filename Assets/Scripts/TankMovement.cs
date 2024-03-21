@@ -44,6 +44,7 @@ public class TankMovement : MonoBehaviour
 
         // Start playing the idle audio clip
         idleAudioSource.Play();
+
     }
 
     void Update()
@@ -64,6 +65,7 @@ public class TankMovement : MonoBehaviour
             idleAudioSource.Play();
             movingAudioSource.Stop();
         }
+        
     }
 
     void FixedUpdate()
